@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<RQ_CannotQuest>Cannot check for quests</RQ_CannotQuest>
+<RQ_QuestWith>Check for quests with {0}</RQ_QuestWith>
+<RQ_QuestOpportunity>Quest Opportunity</RQ_QuestOpportunity>
+<RQ_QuestDialog>{0} approaches {1} and speaks for a while. While {1} has HIS own business to attend to, HE tells {0} about a few opportunities HE has heard about while traveling through the area. HECAP does not have time to attend to everything, and HE offers to share an opportunity in exchange for some silver ({2} total).\n\nWhich one will {0} ask about?</RQ_QuestDialog>
+<RQ_QuestDialogTwo>{0} writes down a rough map. HECAP informs {1} how and where to get started.</RQ_QuestDialogTwo>
+<RQ_LackFunds>Not Enough Silver</RQ_LackFunds>
+<RQ_LackFundsMessage>Your colony doesn't have enough silver.</RQ_LackFundsMessage>
+
+</LanguageData>

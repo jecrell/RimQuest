@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- Industrial and higher give even-chance of all quests.  -->
+  <RimQuest.QuestGiverDef>
+    <defName>RQ_StandardQuestGiver</defName>
+	<techLevels>
+	 <li>Industrial</li>
+	 <li>Spacer</li>
+	 <li>Ultra</li>
+	 <li>Transcendent</li>
+	</techLevels>
+	<maxOptions>4</maxOptions>
+	<anyQuest>true</anyQuest>
+  </RimQuest.QuestGiverDef>
+  
+  <!-- Medieval quest givers are uninterested in peace talks, but they will often mention stashes and prisoners.-->
+  <RimQuest.QuestGiverDef>
+    <defName>RQ_MedievalQuestGiver</defName>
+	<techLevels>
+	  <li>Medieval</li>
+	</techLevels>
+	<quests>
+	  <QuestBanditCamp>5</QuestBanditCamp>
+	  <QuestItemStash>4</QuestItemStash>
+	  <QuestDownedRefugee>4</QuestDownedRefugee>
+	  <QuestPrisonerWillingToJoin>4</QuestPrisonerWillingToJoin>
+	  <QuestPeaceTalks>1</QuestPeaceTalks>
+	</quests>
+  </RimQuest.QuestGiverDef>
+
+  <!-- Tribal quest givers are more likely to want bandit camps eradicated. -->
+  <RimQuest.QuestGiverDef>
+    <defName>RQ_TribalQuestGiver</defName>
+	<factions>
+	  <li>Tribe</li>
+	</factions>
+	<quests>
+	  <QuestBanditCamp>8</QuestBanditCamp>
+	  <QuestItemStash>4</QuestItemStash>
+	  <QuestPeaceTalks>3</QuestPeaceTalks>
+	  <QuestDownedRefugee>1</QuestDownedRefugee>
+	  <QuestPrisonerWillingToJoin>1</QuestPrisonerWillingToJoin>
+	</quests>
+  </RimQuest.QuestGiverDef>  
+  
+  <!-- Neolithic quest givers are the same as tribal ones -->
+  <RimQuest.QuestGiverDef>
+    <defName>RQ_TribalQuestGiver</defName>
+	<techLevels>
+	  <li>Neolithic</li>
+	</techLevels>
+	<quests>
+	  <QuestBanditCamp>10</QuestBanditCamp>
+	  <QuestItemStash>5</QuestItemStash>
+	  <QuestPeaceTalks>3</QuestPeaceTalks>
+	  <QuestDownedRefugee>1</QuestDownedRefugee>
+	  <QuestPrisonerWillingToJoin>1</QuestPrisonerWillingToJoin>
+	</quests>
+  </RimQuest.QuestGiverDef>  
+  
+  <!-- Animals, undefined types will only have item stash and downed refugees. -->
+  <RimQuest.QuestGiverDef>
+    <defName>RQ_AnimalQuestGiver</defName>
+	<techLevels>
+	  <li>Animal</li>
+	  <li>Neolithic</li>
+	</techLevels>
+	<quests>
+	  <QuestItemStash>1</QuestItemStash>
+	  <QuestDownedRefugee>1</QuestDownedRefugee>
+	</quests>
+  </RimQuest.QuestGiverDef>
+  
+</Defs>

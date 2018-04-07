@@ -1,0 +1,3 @@
+D:\SteamLibrary\steamapps\common\RimWorld\ModsWorkspace\RimQuest\Assemblies\RimQuest.dll
+D:\SteamLibrary\steamapps\common\RimWorld\ModsWorkspace\RimQuest\Source\RimQuest\obj\Debug\RimQuest.csprojResolveAssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\ModsWorkspace\RimQuest\Source\RimQuest\obj\Debug\RimQuest.dll
