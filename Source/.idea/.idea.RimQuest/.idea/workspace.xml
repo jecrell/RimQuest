@@ -14,7 +14,7 @@
       <file leaf-file-name="HarmonyRimQuest.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RimQuest/HarmonyRimQuest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1354">
+            <state relative-caret-position="1387">
               <caret line="83" column="40" lean-forward="false" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
               <folding>
                 <marker date="1521913362867" expanded="false" signature="6:211" ph="..." />
@@ -66,7 +66,7 @@
       <file leaf-file-name="Dialog_QuestGiver.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RimQuest/Dialog_QuestGiver.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
+            <state relative-caret-position="1786">
               <caret line="100" column="46" lean-forward="false" selection-start-line="100" selection-start-column="46" selection-end-line="100" selection-end-column="46" />
               <folding>
                 <marker date="1523036581573" expanded="false" signature="6:133" ph="..." />
@@ -118,22 +118,22 @@
       <file leaf-file-name="QuestPawn.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RimQuest/QuestPawn.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="28" column="47" lean-forward="true" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+            <state relative-caret-position="219">
+              <caret line="67" column="6" lean-forward="true" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
               <folding>
-                <marker date="1523081962081" expanded="false" signature="6:95" ph="..." />
-                <marker date="1523081962081" expanded="true" signature="115:2827" ph="{...}" />
-                <marker date="1523081962081" expanded="true" signature="157:2825" ph="{...}" />
-                <marker date="1523081962081" expanded="true" signature="302:322" ph="{...}" />
-                <marker date="1523081962081" expanded="true" signature="422:554" ph="{...}" />
-                <marker date="1523081962081" expanded="true" signature="599:923" ph="{...}" />
-                <marker date="1523081962081" expanded="true" signature="988:1256" ph="{...}" />
-                <marker date="1523081962081" expanded="true" signature="1295:1777" ph="{...}" />
-                <marker date="1523081962081" expanded="true" signature="1558:1767" ph="{...}" />
-                <marker date="1523081962081" expanded="true" signature="1835:2185" ph="{...}" />
-                <marker date="1523081962081" expanded="true" signature="2020:2148" ph="{...}" />
-                <marker date="1523081962081" expanded="true" signature="2240:2556" ph="{...}" />
-                <marker date="1523081962081" expanded="true" signature="2591:2819" ph="{...}" />
+                <marker date="1523110012215" expanded="false" signature="6:95" ph="..." />
+                <marker date="1523110012215" expanded="true" signature="115:2886" ph="{...}" />
+                <marker date="1523110012215" expanded="true" signature="157:2884" ph="{...}" />
+                <marker date="1523110012215" expanded="true" signature="302:322" ph="{...}" />
+                <marker date="1523110012215" expanded="true" signature="422:554" ph="{...}" />
+                <marker date="1523110012215" expanded="true" signature="599:923" ph="{...}" />
+                <marker date="1523110012215" expanded="true" signature="988:1256" ph="{...}" />
+                <marker date="1523110012215" expanded="true" signature="1295:1777" ph="{...}" />
+                <marker date="1523110012215" expanded="true" signature="1558:1767" ph="{...}" />
+                <marker date="1523110012215" expanded="true" signature="1835:2185" ph="{...}" />
+                <marker date="1523110012215" expanded="true" signature="2020:2148" ph="{...}" />
+                <marker date="1523110012215" expanded="true" signature="2240:2615" ph="{...}" />
+                <marker date="1523110012215" expanded="true" signature="2650:2878" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -146,7 +146,6 @@
               <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
               <folding>
                 <marker date="1523036581676" expanded="false" signature="6:28" ph="..." />
-                <marker date="1523036581676" expanded="true" signature="48:161" ph="{...}" />
                 <marker date="1523036581676" expanded="true" signature="100:159" ph="{...}" />
               </folding>
             </state>
@@ -159,7 +158,6 @@
             <state relative-caret-position="190">
               <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
-                <marker date="1523036581698" expanded="true" signature="32:182" ph="{...}" />
                 <marker date="1523036581698" expanded="true" signature="69:180" ph="{...}" />
                 <marker date="1523036581698" expanded="true" signature="142:174" ph="{...}" />
               </folding>
@@ -174,7 +172,6 @@
               <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <marker date="1523078441742" expanded="false" signature="6:62" ph="..." />
-                <marker date="1523078441742" expanded="true" signature="82:371" ph="{...}" />
                 <marker date="1523078441742" expanded="true" signature="121:369" ph="{...}" />
               </folding>
             </state>
@@ -276,11 +273,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1098" />
+    <option name="width" value="1135" />
+    <option name="height" value="855" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -304,11 +300,6 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="RimQuest (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="RimQuest (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="RimQuest" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -365,12 +356,13 @@
       <workItem from="1521815739170" duration="2001000" />
       <workItem from="1521870106079" duration="30570000" />
       <workItem from="1523036575761" duration="936000" />
-      <workItem from="1523077826598" duration="4147000" />
+      <workItem from="1523077826598" duration="6916000" />
+      <workItem from="1524574564400" duration="102000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44058000" />
+    <option name="totallyTimeSpent" value="46929000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,18 +374,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
-    <editor active="true" />
+    <frame x="-9" y="0" width="1135" height="855" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4213362" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42043796" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22610097" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40321058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286638" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -420,6 +411,185 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RimQuest/HarmonyRimQuest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="83" column="40" lean-forward="false" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
+          <folding>
+            <marker date="1521913362867" expanded="false" signature="6:211" ph="..." />
+            <marker date="1521913362867" expanded="true" signature="231:7206" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="299:7204" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="346:1441" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="1589:1786" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="1987:2852" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="2047:2809" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="2203:2795" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="2664:2777" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="2984:4736" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="3084:4726" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="3220:3379" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="3461:3709" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="3607:3681" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="3730:4712" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="4311:4375" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="4855:4876" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="4895:4959" ph="/* IncidentWorker_VisitorGroup ... */" />
+            <marker date="1521913362867" expanded="true" signature="5063:5503" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="5404:5493" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="5560:5981" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="5645:5930" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="6059:6514" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="6255:6399" ph="{...}" />
+            <marker date="1521913362867" expanded="true" signature="6802:7180" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RimQuest/JobDriver_QuestWithPawn.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <marker date="1523036581532" expanded="true" signature="6:92" ph="..." />
+            <marker date="1523036581532" expanded="true" signature="112:1017" ph="{...}" />
+            <marker date="1523036581532" expanded="true" signature="167:1015" ph="{...}" />
+            <marker date="1523036581532" expanded="true" signature="292:390" ph="{...}" />
+            <marker date="1523036581532" expanded="true" signature="451:1009" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RimQuest/Dialog_QuestGiver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1786">
+          <caret line="100" column="46" lean-forward="false" selection-start-line="100" selection-start-column="46" selection-end-line="100" selection-end-column="46" />
+          <folding>
+            <marker date="1523036581573" expanded="false" signature="6:133" ph="..." />
+            <marker date="1523036581573" expanded="true" signature="153:7015" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="196:7013" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="906:1303" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="1354:1557" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="1596:2638" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="2953:6023" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="2986:3025" ph="/* if (!this.title.NullOrEmpty()) ... */" />
+            <marker date="1523036581573" expanded="true" signature="3672:4184" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="3979:4026" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="4130:4179" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="4351:4383" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="4430:5681" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="4619:5676" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="4800:5089" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="5689:6019" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="5855:6010" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="6083:6697" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="6258:6544" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="6329:6539" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="6363:6390" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="6738:6810" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="6858:7010" ph="{...}" />
+            <marker date="1523036581573" expanded="true" signature="6923:6988" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RimQuest/QuestGenOption.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <marker date="1523079341680" expanded="false" signature="6:46" ph="..." />
+            <marker date="1523079341680" expanded="true" signature="66:688" ph="{...}" />
+            <marker date="1523079341680" expanded="true" signature="100:686" ph="{...}" />
+            <marker date="1523079341680" expanded="true" signature="138:158" ph="{...}" />
+            <marker date="1523079341680" expanded="true" signature="229:329" ph="{...}" />
+            <marker date="1523079341680" expanded="true" signature="389:608" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RimQuest/RimQuestDefOf.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding>
+            <marker date="1523036581676" expanded="false" signature="6:28" ph="..." />
+            <marker date="1523036581676" expanded="true" signature="100:159" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RimQuest/RimQuestMod.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1523036581698" expanded="true" signature="69:180" ph="{...}" />
+            <marker date="1523036581698" expanded="true" signature="142:174" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RimQuest/QuestGiverDef.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1523078441742" expanded="false" signature="6:62" ph="..." />
+            <marker date="1523078441742" expanded="true" signature="121:369" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RimQuest/RimQuestTracker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding>
+            <marker date="1523036581720" expanded="false" signature="6:69" ph="..." />
+            <marker date="1523036581720" expanded="true" signature="141:825" ph="{...}" />
+            <marker date="1523036581720" expanded="true" signature="290:310" ph="{...}" />
+            <marker date="1523036581720" expanded="true" signature="361:643" ph="{...}" />
+            <marker date="1523036581720" expanded="true" signature="494:633" ph="{...}" />
+            <marker date="1523036581720" expanded="true" signature="686:819" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RimQuest/RimQuestUtility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <marker date="1523036581773" expanded="false" signature="6:95" ph="..." />
+            <marker date="1523036581773" expanded="true" signature="157:1027" ph="{...}" />
+            <marker date="1523036581773" expanded="true" signature="225:339" ph="{...}" />
+            <marker date="1523036581773" expanded="true" signature="410:865" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RimQuest/QuestPawn.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <marker date="1523110012215" expanded="false" signature="6:95" ph="..." />
+            <marker date="1523110012215" expanded="true" signature="115:2886" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="157:2884" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="302:322" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="422:554" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="599:923" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="988:1256" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="1295:1777" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="1558:1767" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="1835:2185" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="2020:2148" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="2240:2615" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="2650:2878" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RimQuest/HarmonyRimQuest.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -521,19 +691,19 @@
         <state relative-caret-position="399">
           <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
           <folding>
-            <marker date="1523081962081" expanded="false" signature="6:95" ph="..." />
-            <marker date="1523081962081" expanded="true" signature="115:2827" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="157:2825" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="302:322" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="422:554" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="599:923" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="988:1256" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="1295:1777" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="1558:1767" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="1835:2185" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="2020:2148" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="2240:2556" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="2591:2819" ph="{...}" />
+            <marker date="1523110012215" expanded="false" signature="6:95" ph="..." />
+            <marker date="1523110012215" expanded="true" signature="115:2886" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="157:2884" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="302:322" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="422:554" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="599:923" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="988:1256" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="1295:1777" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="1558:1767" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="1835:2185" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="2020:2148" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="2240:2615" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="2650:2878" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -544,7 +714,6 @@
           <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
           <folding>
             <marker date="1523036581676" expanded="false" signature="6:28" ph="..." />
-            <marker date="1523036581676" expanded="true" signature="48:161" ph="{...}" />
             <marker date="1523036581676" expanded="true" signature="100:159" ph="{...}" />
           </folding>
         </state>
@@ -555,7 +724,6 @@
         <state relative-caret-position="190">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <marker date="1523036581698" expanded="true" signature="32:182" ph="{...}" />
             <marker date="1523036581698" expanded="true" signature="69:180" ph="{...}" />
             <marker date="1523036581698" expanded="true" signature="142:174" ph="{...}" />
           </folding>
@@ -568,7 +736,6 @@
           <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding>
             <marker date="1523078441742" expanded="false" signature="6:62" ph="..." />
-            <marker date="1523078441742" expanded="true" signature="82:371" ph="{...}" />
             <marker date="1523078441742" expanded="true" signature="121:369" ph="{...}" />
           </folding>
         </state>
@@ -703,19 +870,19 @@
         <state relative-caret-position="399">
           <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
           <folding>
-            <marker date="1523081962081" expanded="false" signature="6:95" ph="..." />
-            <marker date="1523081962081" expanded="true" signature="115:2827" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="157:2825" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="302:322" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="422:554" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="599:923" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="988:1256" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="1295:1777" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="1558:1767" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="1835:2185" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="2020:2148" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="2240:2556" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="2591:2819" ph="{...}" />
+            <marker date="1523110012215" expanded="false" signature="6:95" ph="..." />
+            <marker date="1523110012215" expanded="true" signature="115:2886" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="157:2884" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="302:322" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="422:554" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="599:923" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="988:1256" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="1295:1777" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="1558:1767" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="1835:2185" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="2020:2148" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="2240:2615" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="2650:2878" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -726,7 +893,6 @@
           <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
           <folding>
             <marker date="1523036581676" expanded="false" signature="6:28" ph="..." />
-            <marker date="1523036581676" expanded="true" signature="48:161" ph="{...}" />
             <marker date="1523036581676" expanded="true" signature="100:159" ph="{...}" />
           </folding>
         </state>
@@ -737,7 +903,6 @@
         <state relative-caret-position="190">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <marker date="1523036581698" expanded="true" signature="32:182" ph="{...}" />
             <marker date="1523036581698" expanded="true" signature="69:180" ph="{...}" />
             <marker date="1523036581698" expanded="true" signature="142:174" ph="{...}" />
           </folding>
@@ -750,7 +915,6 @@
           <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding>
             <marker date="1523078441742" expanded="false" signature="6:62" ph="..." />
-            <marker date="1523078441742" expanded="true" signature="82:371" ph="{...}" />
             <marker date="1523078441742" expanded="true" signature="121:369" ph="{...}" />
           </folding>
         </state>
@@ -979,7 +1143,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RimQuest/HarmonyRimQuest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1354">
+        <state relative-caret-position="1387">
           <caret line="83" column="40" lean-forward="false" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
           <folding>
             <marker date="1521913362867" expanded="false" signature="6:211" ph="..." />
@@ -1013,7 +1177,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RimQuest/Dialog_QuestGiver.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
+        <state relative-caret-position="1786">
           <caret line="100" column="46" lean-forward="false" selection-start-line="100" selection-start-column="46" selection-end-line="100" selection-end-column="46" />
           <folding>
             <marker date="1523036581573" expanded="false" signature="6:133" ph="..." />
@@ -1065,7 +1229,6 @@
           <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
             <marker date="1523078441742" expanded="false" signature="6:62" ph="..." />
-            <marker date="1523078441742" expanded="true" signature="82:371" ph="{...}" />
             <marker date="1523078441742" expanded="true" signature="121:369" ph="{...}" />
           </folding>
         </state>
@@ -1076,7 +1239,6 @@
         <state relative-caret-position="190">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <marker date="1523036581698" expanded="true" signature="32:182" ph="{...}" />
             <marker date="1523036581698" expanded="true" signature="69:180" ph="{...}" />
             <marker date="1523036581698" expanded="true" signature="142:174" ph="{...}" />
           </folding>
@@ -1089,7 +1251,6 @@
           <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
           <folding>
             <marker date="1523036581676" expanded="false" signature="6:28" ph="..." />
-            <marker date="1523036581676" expanded="true" signature="48:161" ph="{...}" />
             <marker date="1523036581676" expanded="true" signature="100:159" ph="{...}" />
           </folding>
         </state>
@@ -1097,22 +1258,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RimQuest/QuestPawn.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="28" column="47" lean-forward="true" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+        <state relative-caret-position="219">
+          <caret line="67" column="6" lean-forward="true" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
           <folding>
-            <marker date="1523081962081" expanded="false" signature="6:95" ph="..." />
-            <marker date="1523081962081" expanded="true" signature="115:2827" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="157:2825" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="302:322" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="422:554" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="599:923" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="988:1256" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="1295:1777" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="1558:1767" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="1835:2185" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="2020:2148" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="2240:2556" ph="{...}" />
-            <marker date="1523081962081" expanded="true" signature="2591:2819" ph="{...}" />
+            <marker date="1523110012215" expanded="false" signature="6:95" ph="..." />
+            <marker date="1523110012215" expanded="true" signature="115:2886" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="157:2884" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="302:322" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="422:554" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="599:923" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="988:1256" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="1295:1777" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="1558:1767" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="1835:2185" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="2020:2148" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="2240:2615" ph="{...}" />
+            <marker date="1523110012215" expanded="true" signature="2650:2878" ph="{...}" />
           </folding>
         </state>
       </provider>

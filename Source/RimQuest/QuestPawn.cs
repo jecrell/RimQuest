@@ -69,7 +69,8 @@ namespace RimQuest
             return x.targetTypes.Contains(IncidentTargetTypeDefOf.World) && x.letterDef != LetterDefOf.NegativeEvent &&
                    x.defName != "JourneyOffer" &&
                    x.defName != "CultIncident_StarsAreWrong" &&
-                   x.defName != "CultIncident_StarsAreRight";
+                   x.defName != "CultIncident_StarsAreRight" &&
+                   x.defName != "HPLovecraft_BloodMoon";
         }
 
 
