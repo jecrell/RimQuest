@@ -1,3 +1,6 @@
 D:\SteamLibrary\steamapps\common\RimWorld\ModsWorkspace\RimQuest\Assemblies\RimQuest.dll
 D:\SteamLibrary\steamapps\common\RimWorld\ModsWorkspace\RimQuest\Source\RimQuest\obj\Debug\RimQuest.csprojResolveAssemblyReference.cache
 D:\SteamLibrary\steamapps\common\RimWorld\ModsWorkspace\RimQuest\Source\RimQuest\obj\Debug\RimQuest.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\ModsWorkspace\RimQuest\Assemblies\RimQuest.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\ModsWorkspace\RimQuest\Source\RimQuest\obj\Debug\RimQuest.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\ModsWorkspace\RimQuest\Source\RimQuest\obj\Debug\RimQuest.dll

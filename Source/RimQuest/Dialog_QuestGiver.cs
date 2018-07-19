@@ -41,10 +41,10 @@ namespace RimQuest
 		{
 			questPawn = newQuestPawn;
 			interactor = newInteractor;
-			this.closeOnEscapeKey = true;
+			//this.closeOnEscapeKey = true;
 			this.forcePause = true;
 			this.absorbInputAroundWindow = true;
-			this.closeOnEscapeKey = false;
+			//this.closeOnEscapeKey = false;
 			this.creationRealTime = RealTime.LastRealTime;
 			this.onlyOneOfTypeAllowed = false;
 			actualSilverCost = DetermineSilverCost();
@@ -61,7 +61,7 @@ namespace RimQuest
 		private int DetermineSilverCost()
 		{
 			var currentSilver = defaultSilverCost; //50
-			var priceFactorBuy_TraderPriceFactor = questPawn.pawn.Faction.RelationWith(Faction.OfPlayer).goodwill;
+			var priceFactorBuy_TraderPriceFactor = (float)questPawn.pawn.Faction.RelationWith(Faction.OfPlayer).goodwill;
 			priceFactorBuy_TraderPriceFactor += (priceFactorBuy_TraderPriceFactor < 0f) ? 0f : 100f;
 			priceFactorBuy_TraderPriceFactor *= (priceFactorBuy_TraderPriceFactor < 0f) ? -1f : 1f;
 			priceFactorBuy_TraderPriceFactor *= 0.005f;
@@ -124,7 +124,7 @@ namespace RimQuest
 			{
 				if (selectedIncident != null && Widgets.ButtonText(new Rect(inRect.width / 2f + 20f, inRect.height - 35f, inRect.width / 2f - 20f, 35f), "Confirm".Translate(), true, false, true))
 				{
-					IncidentParms incidentParms = StorytellerUtility.DefaultParmsNow(Find.Storyteller.def, selectedIncident.category, Find.World);
+					IncidentParms incidentParms = StorytellerUtility.DefaultParmsNow(selectedIncident.category, Find.World);
 					if (selectedIncident.pointsScaleable)
 					{
 						StorytellerComp storytellerComp = Find.Storyteller.storytellerComps.First((StorytellerComp x) => x is StorytellerComp_ThreatCycle || x is StorytellerComp_RandomMain);

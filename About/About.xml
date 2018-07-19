@@ -2,9 +2,8 @@
 <ModMetaData>
   <name>RimQuest</name>
   <author>Jecrell</author>
-  <targetVersion>0.18.0</targetVersion>
+  <targetVersion>1.0.0</targetVersion>
   <description>
-  V1.18.0.1
-  Adds a quest giver alongside traders.
-</description>
+  V1.0.0.0
+  Adds a quest giver alongside traders.</description>
 </ModMetaData>

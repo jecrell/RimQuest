@@ -8,7 +8,7 @@
 	 <li>Industrial</li>
 	 <li>Spacer</li>
 	 <li>Ultra</li>
-	 <li>Transcendent</li>
+	 <li>Archotech</li>
 	</techLevels>
 	<maxOptions>4</maxOptions>
 	<anyQuest>true</anyQuest>
@@ -21,11 +21,11 @@
 	  <li>Medieval</li>
 	</techLevels>
 	<quests>
-	  <QuestBanditCamp>5</QuestBanditCamp>
-	  <QuestItemStash>4</QuestItemStash>
-	  <QuestDownedRefugee>4</QuestDownedRefugee>
-	  <QuestPrisonerWillingToJoin>4</QuestPrisonerWillingToJoin>
-	  <QuestPeaceTalks>1</QuestPeaceTalks>
+	  <Quest_BanditCamp>5</Quest_BanditCamp>
+	  <Quest_ItemStash>4</Quest_ItemStash>
+	  <Quest_DownedRefugee>4</Quest_DownedRefugee>
+	  <Quest_PrisonerRescue>4</Quest_PrisonerRescue>
+	  <Quest_PeaceTalks>1</Quest_PeaceTalks>
 	</quests>
   </RimQuest.QuestGiverDef>
 
@@ -33,14 +33,15 @@
   <RimQuest.QuestGiverDef>
     <defName>RQ_TribalQuestGiver</defName>
 	<factions>
-	  <li>Tribe</li>
+	  <li>TribeCivil</li>
+	  <li>TribeRough</li>
 	</factions>
 	<quests>
-	  <QuestBanditCamp>8</QuestBanditCamp>
-	  <QuestItemStash>4</QuestItemStash>
-	  <QuestPeaceTalks>3</QuestPeaceTalks>
-	  <QuestDownedRefugee>1</QuestDownedRefugee>
-	  <QuestPrisonerWillingToJoin>1</QuestPrisonerWillingToJoin>
+	  <Quest_BanditCamp>8</Quest_BanditCamp>
+	  <Quest_ItemStash>4</Quest_ItemStash>
+	  <Quest_PeaceTalks>3</Quest_PeaceTalks>
+	  <Quest_DownedRefugee>1</Quest_DownedRefugee>
+	  <Quest_PrisonerRescue>1</Quest_PrisonerRescue>
 	</quests>
   </RimQuest.QuestGiverDef>  
   
@@ -51,11 +52,11 @@
 	  <li>Neolithic</li>
 	</techLevels>
 	<quests>
-	  <QuestBanditCamp>10</QuestBanditCamp>
-	  <QuestItemStash>5</QuestItemStash>
-	  <QuestPeaceTalks>3</QuestPeaceTalks>
-	  <QuestDownedRefugee>1</QuestDownedRefugee>
-	  <QuestPrisonerWillingToJoin>1</QuestPrisonerWillingToJoin>
+	  <Quest_BanditCamp>10</Quest_BanditCamp>
+	  <Quest_ItemStash>5</Quest_ItemStash>
+	  <Quest_PeaceTalks>3</Quest_PeaceTalks>
+	  <Quest_DownedRefugee>1</Quest_DownedRefugee>
+	  <Quest_PrisonerRescue>1</Quest_PrisonerRescue>
 	</quests>
   </RimQuest.QuestGiverDef>  
   
@@ -67,8 +68,8 @@
 	  <li>Neolithic</li>
 	</techLevels>
 	<quests>
-	  <QuestItemStash>1</QuestItemStash>
-	  <QuestDownedRefugee>1</QuestDownedRefugee>
+	  <Quest_ItemStash>1</Quest_ItemStash>
+	  <Quest_DownedRefugee>1</Quest_DownedRefugee>
 	</quests>
   </RimQuest.QuestGiverDef>
   
