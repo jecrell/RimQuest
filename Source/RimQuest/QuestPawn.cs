@@ -66,7 +66,7 @@ namespace RimQuest
 
         private bool IsAcceptableQuest(IncidentDef x)
         {
-            return x.targetTypes.Contains(IncidentTargetTypeDefOf.World) && x.letterDef != LetterDefOf.NegativeEvent &&
+            return x.targetTags.Contains(IncidentTargetTagDefOf.World) && x.letterDef != LetterDefOf.NegativeEvent &&
                    x.defName != "JourneyOffer" &&
                    x.defName != "CultIncident_StarsAreWrong" &&
                    x.defName != "CultIncident_StarsAreRight" &&

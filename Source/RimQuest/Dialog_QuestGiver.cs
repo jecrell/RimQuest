@@ -127,7 +127,7 @@ namespace RimQuest
 					IncidentParms incidentParms = StorytellerUtility.DefaultParmsNow(selectedIncident.category, Find.World);
 					if (selectedIncident.pointsScaleable)
 					{
-						StorytellerComp storytellerComp = Find.Storyteller.storytellerComps.First((StorytellerComp x) => x is StorytellerComp_ThreatCycle || x is StorytellerComp_RandomMain);
+						StorytellerComp storytellerComp = Find.Storyteller.storytellerComps.First((StorytellerComp x) => x is StorytellerComp_OnOffCycle || x is StorytellerComp_RandomMain);
 						incidentParms = storytellerComp.GenerateParms(selectedIncident.category, incidentParms.target);
 					}
 					selectedIncident.Worker.TryExecute(incidentParms);
