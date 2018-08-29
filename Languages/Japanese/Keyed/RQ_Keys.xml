@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RQ_CannotQuest>クエストが確認できません</RQ_CannotQuest>
+  <RQ_QuestWith>{0}のクエストを確認する</RQ_QuestWith>
+  <RQ_QuestOpportunity>クエストのチャンス</RQ_QuestOpportunity>
+  <RQ_QuestDialog>{0}は{1}に近づいて、しばらく話し込みました。その中で{1}は自分の事に専念していましたが、HEは他の地域で聞いた、儲け話があると{0}に教えてくれました。HECAPはそのすべての件に関わっている余裕が無いので、HEは{2}シルバーと引き換えにその儲け話を教えてくれる様です。\n\nどの話について{0}に質問させますか？</RQ_QuestDialog>
+  <RQ_QuestDialogTwo>{0}は、地図に大まかな内容を書いてくれました。HECAPは、向かうべき先が何処なのか、何日掛かるのかについて{1}に伝えています。</RQ_QuestDialogTwo>
+  <RQ_LackFunds>シルバーが足りません</RQ_LackFunds>
+  <RQ_LackFundsMessage>あなたのコロニーは支払いに必要な額のシルバーがありません。</RQ_LackFundsMessage>
+
+
+</LanguageData>
