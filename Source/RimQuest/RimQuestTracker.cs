@@ -18,7 +18,7 @@ namespace RimQuest
             base.WorldComponentTick();
             if (Find.TickManager.TicksGame % 250 == 0 && !questPawns.NullOrEmpty())
             {
-                questPawns.RemoveAll(x => x.pawn == null || x.pawn.Downed || x.pawn.Dead || x.pawn.Destroyed);
+                questPawns.RemoveAll(x => x.pawn == null || x.pawn.Downed || x.pawn.Dead || x.pawn.Destroyed || x.pawn.IsColonist);
             }
         }
 
