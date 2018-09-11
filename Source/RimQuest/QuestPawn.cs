@@ -70,7 +70,8 @@ namespace RimQuest
                    x.defName != "JourneyOffer" &&
                    x.defName != "CultIncident_StarsAreWrong" &&
                    x.defName != "CultIncident_StarsAreRight" &&
-                   x.defName != "HPLovecraft_BloodMoon";
+                   x.defName != "HPLovecraft_BloodMoon" &&
+                   x.defName != "Aurora";
         }
 
 
