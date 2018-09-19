@@ -58,7 +58,7 @@ namespace RimQuest
                         questPawns.Add(new QuestPawn(newQuestPawn));
                     }
                 }
-            }, "googityDoogity", true, null);
+            }, "RQ_LoadingScreen".Translate(), true, null);
 
         }
 

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+<RQ_LoadingScreen>Setting Quest Giver...</RQ_LoadingScreen>
 <RQ_SilverAmt>{0} silver</RQ_SilverAmt>
 <RQ_CannotQuest>Cannot check for quests</RQ_CannotQuest>
 <RQ_QuestWith>Check for quests with {0}</RQ_QuestWith>

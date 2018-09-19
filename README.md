@@ -1,0 +1,1 @@
+Adds a quest giver alongside traders.

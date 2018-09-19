@@ -3,7 +3,11 @@
   <name>RimQuest</name>
   <author>Jecrell</author>
   <targetVersion>0.19.0</targetVersion>
-  <description>
-  V1.0.0.0
-  Adds a quest giver alongside traders.</description>
+  <description>1.0.2
+
+Adds quest givers to trader groups and caravans. This mod exists for those of us who feel that RimWorld could use a little more direction from time to time, and a good quest is just what we need!
+
+When a trader or caravan arrives, simply right click the character with a green exclamation mark above their head to see what quests are available.
+
+After accepting a quest, it will be available to you on the world map. This version contains vanilla events from RimWorld, but more quests are planned to be added in the future.</description>
 </ModMetaData>
