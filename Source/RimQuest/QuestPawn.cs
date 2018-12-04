@@ -71,7 +71,8 @@ namespace RimQuest
                    x.defName != "CultIncident_StarsAreWrong" &&
                    x.defName != "CultIncident_StarsAreRight" &&
                    x.defName != "HPLovecraft_BloodMoon" &&
-                   x.defName != "Aurora";
+                   x.defName != "Aurora" &&
+                   (x.GetModExtension<RimQuest_ModExtension>()?.canBeARimQuest ?? true); //mod extension value if not null, otherwise assumed true.
         }
 
 
