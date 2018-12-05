@@ -34,8 +34,7 @@ namespace RimQuest
 
         private float creationRealTime = -1f;
 
-        private string text => "RQ_QuestDialog".Translate(new object[]
-            {interactor.LabelShort, questPawn.pawn.LabelShort, actualSilverCost});
+        private string text => "RQ_QuestDialog".Translate(interactor.LabelShort, questPawn.pawn.LabelShort, actualSilverCost);
 
         public Dialog_QuestGiver(QuestPawn newQuestPawn, Pawn newInteractor)
         {
@@ -150,7 +149,7 @@ namespace RimQuest
                     ReceiveSilver(questPawn.pawn, actualSilverCost);
                     this.Close(true);
                     Find.WindowStack.Add(new Dialog_MessageBox(
-                        "RQ_QuestDialogTwo".Translate(new object[] {questPawn.pawn.LabelShort, interactor.LabelShort})
+                        "RQ_QuestDialogTwo".Translate( questPawn.pawn.LabelShort, interactor.LabelShort)
                             .AdjustedFor(questPawn.pawn), "OK".Translate(), null, null, null, title));
                 }
             }
