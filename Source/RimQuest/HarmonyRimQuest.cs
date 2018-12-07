@@ -74,10 +74,7 @@ namespace RimQuest
                 }
                 else if (pawn.skills.GetSkill(SkillDefOf.Social).TotallyDisabled)
                 {
-                    opts.Add(new FloatMenuOption("CannotPrioritizeWorkTypeDisabled".Translate(new object[]
-                    {
-                        SkillDefOf.Social.LabelCap
-                    }), null));
+                    opts.Add(new FloatMenuOption("CannotPrioritizeWorkTypeDisabled".Translate(SkillDefOf.Social.LabelCap), null));
                 }
                 else
                 {
@@ -91,10 +88,7 @@ namespace RimQuest
                     var str = string.Empty;
                     if (pTarg.Faction != null)
                         str = " (" + pTarg.Faction.Name + ")";
-                    var label = "RQ_QuestWith".Translate(new object[]
-                    {
-                        pTarg.LabelShort
-                    }) + str;
+                    var label = "RQ_QuestWith".Translate(pTarg.LabelShort) + str;
                     var action = (Action) Action4;
                     var priority2 = MenuOptionPriority.InitiateSocial;
                     var thing = dest.Thing;
